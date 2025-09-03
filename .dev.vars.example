@@ -1,0 +1,9 @@
+# Copy this file to `.dev.vars` for local development with:
+#   npx wrangler pages dev .
+# Then replace the placeholder values with your real credentials.
+
+SQUARE_ENV=production
+SQUARE_APPLICATION_ID=YOUR_PRODUCTION_APPLICATION_ID
+SQUARE_ACCESS_TOKEN=YOUR_PRODUCTION_ACCESS_TOKEN
+# Optional: uncomment to lock to a specific location
+# SQUARE_LOCATION_ID=YOUR_LOCATION_ID
